@@ -23,7 +23,7 @@ The notebook I submitted is [fast-official-nfl-solution.ipynb](fast-official-nfl
 
 ## Result
 
-I entered on my own and finished 24th of 2,038 teams, with a score of 0.012568.
+I entered on my own and finished 24th of 2,038 teams, with a score of 0.012568. Counting only solo entries on the final leaderboard, I placed 14th of 1,598.
 
 [Competition leaderboard](https://www.kaggle.com/competitions/nfl-big-data-bowl-2020/leaderboard)
 
