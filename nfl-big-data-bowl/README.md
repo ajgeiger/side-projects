@@ -1,5 +1,7 @@
 # NFL Big Data Bowl 2020
 
+Finished in roughly the top 1%, competing solo. 2,038 teams entered, and 1,598 of them were one person. See the [competition leaderboard](https://www.kaggle.com/competitions/nfl-big-data-bowl-2020/leaderboard).
+
 Kaggle competition: how many yards will an NFL player gain after receiving a handoff?
 
 I had to predict a probability for every possible yard total, from -99 to 99. The official score is Continuous Ranked Probability Score (CRPS). Lower is better.
@@ -19,17 +21,8 @@ The model is a blend of two networks, trained with 5-fold GroupKFold grouped by 
 
 The submitted prediction is 85% Keras and 15% PyTorch.
 
-The notebook I submitted is [fast-official-nfl-solution.ipynb](fast-official-nfl-solution.ipynb). There is also a [Python export](fast-official-nfl-solution.py) of the same code.
-
-## Result
-
-I entered on my own and finished in the top 1.2% overall (24th of 2,038 teams) with a score of 0.012568. Among solo entries I was in the top 1% (14th of 1,598).
-
-[Competition leaderboard](https://www.kaggle.com/competitions/nfl-big-data-bowl-2020/leaderboard)
-
-The kernel for this final submission is still private on Kaggle, so there is no public notebook link.
+The notebook I submitted is [fast-official-nfl-solution.ipynb](fast-official-nfl-solution.ipynb). There is also a [Python export](fast-official-nfl-solution.py) of the same code. The notebook is still private on Kaggle.
 
 ## Sources
 
-- [NFL 001 feature selection](https://www.kaggle.com/coolcoder22/nfl-001-feature-selection), a notebook I used as a starting point
 - [Wide Open Spaces](http://www.lukebornn.com/papers/fernandez_ssac_2018.pdf), the pitch control paper by Fernandez and Bornn
