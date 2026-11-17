@@ -7,7 +7,7 @@ Smaller projects I worked on outside of class. Each one has its own folder.
 | MNIST digit classification | Convolutional neural network that classifies handwritten digits from the MNIST dataset | Python, TensorFlow | [mnist-digit-classification](mnist-digit-classification/) |
 | NFL Big Data Bowl | Kaggle competition on predicting how many yards a player gains after a handoff. My solution placed in the top 1%. | Kaggle | [nfl-big-data-bowl](nfl-big-data-bowl/) |
 
-This repo started as my MNIST repo from February 2018. The NFL project was merged in with their original commits.
+This repo started as my MNIST repo from February 2018. The NFL project was merged in with its original commit.
 
 ## License
 
